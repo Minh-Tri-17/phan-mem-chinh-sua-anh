@@ -1,0 +1,56 @@
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\BaoCaoXuLyAnh.exe.config
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\BaoCaoXuLyAnh.exe
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\BaoCaoXuLyAnh.pdb
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.csproj.AssemblyReference.cache
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.Form1.resources
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.Properties.Resources.resources
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.csproj.GenerateResource.cache
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.csproj.CoreCompileInputs.cache
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.exe
+D:\DACS2\DACS2_APP\Soucre Code\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.pdb
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\BaoCaoXuLyAnh.exe.config
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\BaoCaoXuLyAnh.exe
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\BaoCaoXuLyAnh.pdb
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.csproj.AssemblyReference.cache
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.Form1.resources
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.Properties.Resources.resources
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.csproj.GenerateResource.cache
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.csproj.CoreCompileInputs.cache
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.exe
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.pdb
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\Emgu.CV.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\StackBlur.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\System.Drawing.Common.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\Emgu.CV.xml
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\obj\Debug\BaoCaoXuLyAnh.csproj.CopyComplete
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\Emgu.CV.Bitmap.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\Emgu.CV.Bitmap.xml
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\System.Drawing.Common.xml
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\concrt140.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\cvextern.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\msvcp140.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\msvcp140_atomic_wait.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\msvcp140_codecvt_ids.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\vcruntime140.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\haarcascade_frontalface_default.xml
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\msvcp140_1.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\msvcp140_2.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\opencv_videoio_ffmpeg460_64.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\vcruntime140_1.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\ZedGraph.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\ZedGraph.xml
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\de\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\es\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\fr\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\hu\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\it\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\ja\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\pt\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\ru\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\sk\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\sv\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\tr\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Study\FileCode\BaoCaoXuLyAnh\BaoCaoXuLyAnh\bin\Debug\zh-tw\ZedGraph.resources.dll
